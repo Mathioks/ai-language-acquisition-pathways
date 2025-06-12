@@ -3,7 +3,7 @@ layout: default
 title: From Stuck to Fluent
 ---
 
-# From Stuck to Fluent: Why Progress Halts Around B2, and How AI and Gamification Can Bridge the Gap
+# Why Progress Halts Around B2, and How AI and Gamification Can Bridge the Gap
 
 In today’s global world, being fluent in more than one language is often the key to opportunity. Whether it’s qualifying for a job abroad, passing immigration requirements, or simply building stronger cross-cultural relationships, language skills matter more than ever.
 
