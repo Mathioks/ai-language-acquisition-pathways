@@ -1,7 +1,7 @@
 ---
 layout: default
 title: From Stuck to Fluent
-<link rel="icon" href="/assets/favicon.png" type="image/x-icon" />
+<link rel="icon" href="/assets/favicon.ico" type="image/x-icon" />
 ---
 
 # From Stuck to Fluent: Why Progress Halts Around B2, and How AI and Gamification Can Bridge the Gap
