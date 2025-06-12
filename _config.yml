@@ -1,19 +1,19 @@
 title: AI Language Acquisition Pathways
-description: Research & insights on AI-supported language learning
+#description: Research & insights on AI-supported language learning
 #baseurl: "" # Leave empty unless you're using a subpath
 #url: "https://mathioks.github.io/" # Replace with your GitHub Pages URL
 theme: jekyll-theme-minimal
 
 # Optional for academic polish
-author: Mathioks
-email: mathias@aerts-motion.be
-github_username: Mathioks
-show_downloads: true
+#author: Mathioks
+#email: mathias@aerts-motion.be
+#github_username: Mathioks
+#show_downloads: true
 #logo: /assets/logo.png # optional logo path
 #markdown: kramdown
 #permalink: /:year/:month/:day/:title/
 
 # Enable future add-ons
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+#plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
