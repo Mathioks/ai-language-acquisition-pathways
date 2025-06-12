@@ -11,3 +11,22 @@ body {
 h1, h2, h3, h0, h4 {
   color: #003366 !important;
 }
+
+/* Change banner (project name and tagline) */
+.project-name {
+  color: #ffffff !important;  /* white or whatever you prefer */
+  font-family: 'Georgia', serif !important;
+}
+
+.project-tagline {
+  color: #cccccc !important;
+  font-style: italic;
+}
+
+/* Headings inside the page body */
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3 {
+  color: #003366 !important;
+  font-family: 'Georgia', serif !important;
+}
