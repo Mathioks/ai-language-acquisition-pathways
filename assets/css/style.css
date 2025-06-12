@@ -1,7 +1,4 @@
 /* Change header background */
 .page-header {
   background-color: #003366 !important; /* Deep blue */
-  background-image: url('/assets/banner.jpg'); /* Optional custom image */
-  background-size: cover;
-  background-position: center;
 }
