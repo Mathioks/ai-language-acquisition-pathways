@@ -59,4 +59,4 @@ Helping learners move past plateaus isn’t just educational, it’s social. For
 
 This post is based on original research involving **198 Japanese learners**, Duolingo’s vocabulary set, and comparisons with **JLPT exam lists** and **Japanese Wikipedia frequency data**. The aim: to understand why learners get stuck, and how to help them break through.
 
-![Alt text](/assets/favicon.png)
+![Alt text](/assets/Images/Changes_in_app_usages_over_time.png)
