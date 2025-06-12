@@ -2,8 +2,8 @@ title: AI Language Acquisition Pathways
 #description: Research & insights on AI-supported language learning
 #baseurl: "" # Leave empty unless you're using a subpath
 #url: "https://mathioks.github.io/" # Replace with your GitHub Pages URL
-#theme: jekyll-theme-cayman
-remote_theme: pmarsceill/just-the-docs
+theme: jekyll-theme-cayman
+#remote_theme: pmarsceill/just-the-docs
 
 # Optional for academic polish
 #author: Mathioks
