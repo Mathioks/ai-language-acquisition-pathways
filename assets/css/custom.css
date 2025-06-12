@@ -3,6 +3,9 @@
   color: #000000 !important;
 }
 
+.project-name, .project-tagline {
+    color: #000000 !important;
+
 /* Customize body font */
 body {
   font-family: Georgia, serif;
