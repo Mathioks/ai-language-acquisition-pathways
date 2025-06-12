@@ -1,7 +1,7 @@
 # ai-language-acquisition-pathways
 Exploring AI-driven strategies for language acquisition progression for advanced learners
 
-# From Stuck to Fluent: Why Language Learning Apps Fail at B2, and How AI Can Bridge the Gap
+# Why Progress Halts Around B2, and How AI and Gamification Can Bridge the Gap
 
 This project hosts a public-facing version of the research blog post explaining the challenges language learners face at the **intermediate plateau**, and how **GPT-powered AI tutors (GPALTs)** could help bridge the gap toward advanced fluency.
 
