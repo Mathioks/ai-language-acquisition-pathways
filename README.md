@@ -25,7 +25,7 @@ The blog post walks readers through:
 
 ## 📄 Live Site
 
-🌐 [View the blog on GitHub Pages](https://yourusername.github.io/language-plateau-blog/)
+🌐 [View the blog on GitHub Pages](https://mathioks.github.io/ai-language-acquisition-pathways/)
 
 ## 📁 File Structure
 
