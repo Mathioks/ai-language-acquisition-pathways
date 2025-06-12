@@ -1,3 +1,8 @@
+.page-header {
+  background-color: #002244 !important; /* dark blue */
+  color: #ffffff !important;
+}
+
 /* Customize body font */
 body {
   font-family: Georgia, serif;
