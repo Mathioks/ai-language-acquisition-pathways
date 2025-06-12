@@ -1,20 +1,20 @@
 /* Change header background */
 .page-header {
-  background-color: #003366 !important; /* Deep blue */
-  background-image: url('/assets/banner.jpg'); /* Optional custom image */
-  background-size: cover;
-  background-position: center;
+#  background-color: #003366 !important; /* Deep blue */
+#  background-image: url('/assets/banner.jpg'); /* Optional custom image */
+#  background-size: cover;
+#  background-position: center;
 }
 
 /* Change title text color */
 .project-name,
 .project-tagline {
-  color: #f5f5f5 !important;
+ # color: #f5f5f5 !important;
 }
 
 /* Customize body font */
 body {
-  font-family: Georgia, serif;
-  background-color: #fafafa;
-  color: #333;
+#  font-family: Georgia, serif;
+#  background-color: #fafafa;
+#  color: #333;
 }
