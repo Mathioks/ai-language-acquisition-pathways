@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -82,4 +81,3 @@ title: Home
     <h2>The Research Behind This</h2>
     <p>This post is based on original research involving 198 Japanese learners, Duolingo’s vocabulary set, and comparisons with JLPT exam lists and Japanese Wikipedia frequency data. The aim: to understand why learners get stuck, and how to help them break through.</p>
 </body>
-</html>
