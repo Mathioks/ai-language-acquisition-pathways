@@ -3,16 +3,6 @@ title: AI Language Acquisition Pathways
 #baseurl: "" # Leave empty unless you're using a subpath
 #url: "https://mathioks.github.io/" # Replace with your GitHub Pages URL
 theme: jekyll-theme-cayman
-sass:
-  style: compressed
-
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: default
-      stylesheet: "/assets/css/style.css"
 
 # Optional for academic polish
 #author: Mathioks
