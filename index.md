@@ -11,8 +11,8 @@ So it’s no surprise that language learning apps like Duolingo have exploded in
 
 But here’s the truth few people talk about: very few learners ever make it to fluency using these tools alone.
 
+![Alt text](/assets/Images/Active_Duolingo_Users.png)
 <figure>
-  <img src="/assets/Images/Active_Duolingo_Users.png" alt="Active Duolingo Users" width="400" />
   <figcaption style="font-size: 0.8em !important; text-align: center; color: #666;">
     Figure 1: Number of active Duolingo users in millions
   </figcaption>
