@@ -44,15 +44,21 @@ That third one is the hardest, and the most important. By the time learners reac
 
 Many learners try to power through by brute-force vocabulary study. The problem? It’s not efficient. The *power law distribution in language* tells us that the most common 1,500 ~ 2,000 words cover a huge amount of speech. After that, there is a incremental drop-off in frequency.
 The issue is however, that these rare words are the ones that tend to hold the most meaning, in very simple terms:
+
 More common = Less meaning
+
 Less common = More meaning
 
 ![Alt text](/assets/Images/Cumulative_vocabulary_coverage.png)
 
 Imagine a pyramid: the base is wide and strong, that’s your core vocabulary. But climbing further means placing one brick at a time, high up, with less stability and more effort. The higher you go, the slower your progress.
 
-So while knowing 80% of the words used in a given sentence can be achieved rather quickly, this 80% doesn't translate into 80% understanding. According to a study by SCHMITT et al., knowing 80% of a sentence only amounts for around 50% comprehension.
-This makes it very tiring to continue reading things you would otherwise be interested in, as the language learner constantly has to stop their reading to look up unknown words. Missing even a few rare words can ruin comprehension. According to the study, unassisted reading only really starts to be possible starting from 98% vocabulary coverage.
+So while knowing 80% of the words used in a given sentence can be achieved rather quickly, this 80% doesn't translate into 80% understanding. 
+
+According to a study by SCHMITT et al., knowing 80% of a sentence only amounts for around 50% comprehension.
+This makes it very tiring to continue reading things you would otherwise be interested in, as the language learner constantly has to stop their reading to look up unknown words. Missing even a few rare words can ruin comprehension. 
+
+According to the study, unassisted reading only really starts to be possible starting from 98% vocabulary coverage.
 
 | Approximate Vocabulary Size | Lexical Coverage | Percentile on the Psychometric Test | Reading Score: Mean (SD) | No. of Students |
 |-----------------------------|------------------|--------------------------------------|---------------------------|------------------|
