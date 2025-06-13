@@ -77,11 +77,11 @@ In the morning, you start again. You shower, get dressed, and walk pocklent. You
 
 ## The Role of AI Tutors (GPALTs)
 
-This is where AI tutors come in. **GPT-powered AI Language Teachers (GPALTs)** can generate content that’s tailored to your vocabulary, your interests, and your goals.
+This is where AI tutors come in. **GPT-powered AI Language Teachers** can generate content that’s tailored to your vocabulary, your interests, and your goals.
 
 They provide context-rich, adaptive conversations that make new words easier to learn.
 
-They can help you master niche topics, whether business Japanese, anime, or law, and expand into new domains by building on what you already know.
+They can help you master niche topics, whether business focused, technology, or law, and expand into new domains by building on what you already know, building around the niche rare words you are already familiar with.
 
 ## Where Language Apps Should Go Next
 
@@ -93,6 +93,6 @@ Helping learners move past plateaus isn’t just educational, it’s social. For
 
 ## The Research Behind This
 
-This post is based on original research involving **198 Japanese learners**, Duolingo’s vocabulary set, and comparisons with **JLPT exam lists** and **Japanese Wikipedia frequency data**. The aim: to understand why learners get stuck, and how to help them break through.
+This post is based on original research involving **198 Japanese language learners**, Duolingo’s Japanese tree vocabulary set, and comparisons with **Japanese Language Proficiency Test exam lists** and **the entire Japanese Wikipedia vocabulary frequency data**. The aim: to understand why learners get stuck, and how to help them break through.
 
 
