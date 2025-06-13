@@ -13,7 +13,7 @@ But here’s the truth few people talk about: very few learners ever make it to 
 
 <figure>
   <img src="/assets/Images/Active_Duolingo_Users.png" alt="Active Duolingo Users" width="400" />
-  <figcaption style="font-size: 0.9em; text-align: center; color: #666;">
+  <figcaption style="font-size: 0.1em !important; text-align: center; color: #666;">
     Figure 1: Number of active Duolingo users in millions
   </figcaption>
 </figure>
