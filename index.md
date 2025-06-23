@@ -89,6 +89,11 @@ They provide context-rich, adaptive conversations that make new words easier to 
 
 They can help you master niche topics, whether business focused, technology, or law, and expand into new domains by building on what you already know, building around the niche rare words you are already familiar with.
 
+However, it is also important to stay vigilant for the dangers of using AI:
+-   The content may not be a realistic representation of "native content"
+-   AI may give false corrections
+-   Language is meant to be a communication tool between humans, even though LLMs seem to be able to speak in the same language as us, their models for understanding are vastly different. This introduces additional possibilities for "noise", think of communicating with someone in a noisy environment. As long as you both have excellent grasp on context and the language, it is possible to circumvent misunderstandings through interference from outside sources. The danger is that AI systems seem to be understanding us perfectly, there is no visible environmental aspect that blurs understanding. However, when talking to an LLM in your native language, you will easily pick up when it understood something differently than you meant it, and correct it from there. When relying on it to teach you a language, this may induce confusion, or even worse, may teach the learner very non human ways of responding.
+
 ## Where Language Apps Should Go Next
 
 - Apps should specialize by level. Let learners “graduate” from one tool to the next.
