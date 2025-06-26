@@ -25,7 +25,7 @@ While researchers have identified the B2-C1 plateau, my dataset suggests that a 
 
 This means learners aren’t just at risk of getting stuck once. They’re at risk twice. And each plateau requires a different solution, because what works at A2 no longer works at B1.
 
-<img src="/assets/Images/Intermediate_plateau.png" alt="Intermediate Plateau" width="500"/>
+![Alt text](/assets/Images/Intermediate_plateau.png)
 This is what the intermediate plateau looks like, sad face included.
 
 ## **Why Does This Happen?**
@@ -46,6 +46,7 @@ More common word = Less meaning
 Less common word = More meaning
 
 ![Alt text](/assets/Images/Cumulative_vocabulary_coverage.png)
+
 Here is a visualisation of the Power Law Distribution based on my dataset.
 
 And here is an example by [John Pasden](https://www.sinosplice.com/life/archives/2016/08/25/what-80-comprehension-feels-like) of a text where 80%, and 95% are understandable, to illustrate the point made above:
