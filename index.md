@@ -11,7 +11,7 @@ This frustrating moment of stagnation is known as the **Intermediate Plateau**, 
 
 ---
 
-## **Stuck? You’re Not Alone**
+## **Introduction**
 
 Whether you’re grinding Duolingo streaks, watching native content, or deep into flashcard decks, many language learners hit a point where their progress just… stalls.
 
