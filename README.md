@@ -4,7 +4,7 @@
 
 This project hosts a public-facing version of the research blog post explaining the challenges language learners face at the **intermediate plateau**, and how **Gamified Language Learning Apps** and **GPT-powered AI tutors (GPALTs)** could help bridge the gap toward advanced fluency.
 
-🧠 **Author**: Mathioks  
+🧠 **Author**: Mathias Aerts  
 📘 **Research Focus**: Japanese language acquisition, gamification, and AI in education  
 📊 **Based on data from**:  
 - A survey of 198 Japanese learners  
