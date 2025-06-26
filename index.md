@@ -2,7 +2,7 @@
 layout: default
 title: From Stuck to Fluent
 ---
-# **Why Progress Halts Around B2, and How Gamification and AI Can Bridge the Gap**
+# **Why progress halts around B2, and how gamification and AI can bridge the gap**
 
 **Have you been learning a language for a while now, but feel stuck?**  
 You’re not alone.
@@ -19,7 +19,7 @@ But this isn’t just anecdotal. My research, based on 198 learners and a 14,427
 
 Even more interestingly, the data showed that it’s not the only one.
 
-## **There Are Actually Two Plateaus**
+## **There are actually two plateaus**
 
 While researchers have identified the B2-C1 plateau, my dataset suggests that a second plateau also seems to appear earlier, right between **A2 and B1** (upper-beginner to intermediate).
 
@@ -28,7 +28,7 @@ This means learners aren’t just at risk of getting stuck once. They’re at ri
 ![Alt text](/assets/Images/Intermediate_plateau2.png)
 This is what the intermediate plateau looks like, sad face included.
 
-## **Why Does This Happen?**
+## **Why does this happen?**
 
 The root cause is vocabulary frequency, and something known as the **Power Law Distribution of Language**.
 
@@ -61,7 +61,7 @@ Even a few unknown words can completely derail understanding. According to **Sch
 This means early progress is fast, visible, and encouraging. But soon, it flattens. New words become rarer, harder to remember because of a lack of natural repetition, and contribute less overall in frequency.
 At the same time however, these harder words are necessary to start consuming native content.
 
-## **So What Happens in Practice?**
+## **So what happens in practice?**
 
 Let me introduce the three stages of the intermediate plateau that emerged from the survey data:
 
@@ -74,7 +74,7 @@ Let me introduce the three stages of the intermediate plateau that emerged from 
 
 Recognizing where you are is half the battle. If you’re reading this and nodding along, you’ve probably moved from “Lost” to “Searching”, and that’s progress.
 
-## **How Gamified Language Apps Fit In**
+## **How gamified language apps fit in**
 
 Gamified Language Apps (GLAs) like Duolingo, Busuu, and Memrise are optimized for beginner levels. They:
 
@@ -88,16 +88,16 @@ But, they rarely evolve to match the **needs of intermediate learners**, and mos
 
 The plateau hits hardest when learners need to **shift methods** but don’t realize it. The danger is that promises of "fluency" may cause learners to believe it's their fault, and that they should just apply themselves more to the same learning strategies.
 
-## **Breaking Through the Plateau**
+## **Breaking through the plateau**
 
 The study identified **three game mechanics** that remained universally effective **across all levels**:
 
-### 1. **Progress Tracking**
+### 1. **Progress tracking**
 
 At higher levels, gains are subtle. You’re not learning general terms like “dog” anymore, you’re learning more specific words like “leash”, “kennel”, or “canine”.
 Tracking becomes key to maintain motivation when progress becomes invisible.
 
-### 2. **Flashcards (Spaced Repetition)**
+### 2. **Flashcards (spaced repetition)**
 
 For retaining low-frequency words that matter to your personal goals (e.g., job-specific terms, favorite genre vocab), flashcards remain vital, as these rare words will appear less in natural situations, meaning you have less chances to review them compared to the most common words.
 But, this shouldn't take over consuming compelling, comprehensible input, as trying to brute-force words will:
@@ -110,7 +110,7 @@ This is where most tools fall short. Once you reach the end of B2, your vocabula
 
 Engaging with content using a predefined list of words is however perfectly fine for beginner levels, due to those first 1,500 - 2,000 words being so common, they are bound to be roughly the same words for any new learner.
 
-## **Where AI Tutors Can Help**
+## **Where AI tutors can help**
 
 Although still a generally unexplored field, **GPT-powered tutors** (GPALTs) can offer high levels of personalization.
 
@@ -135,7 +135,7 @@ However, some things to keep in mind:
 
 Still, if used alongside real-world material, AI can help bridge the gap between intermediate and advanced fluency.
 
-## Extra for developers: **Where Language Apps Should Go Next**
+## Extra for developers: **Where language apps should go next**
 
 If developers want their users to succeed, especially long term, they need to:
 
@@ -147,7 +147,7 @@ If developers want their users to succeed, especially long term, they need to:
     
 - Include **flashcards**, **progress tracking** and **personalization**
 
-## **Final Thoughts**
+## **Final thoughts**
 
 Language learning isn’t linear. The intermediate plateau may feel like a failure, but it’s actually a sign of advancement. The challenge is real, but so are the solutions.
 
