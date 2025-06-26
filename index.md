@@ -48,7 +48,7 @@ Less common word = More meaning
 ![Alt text](/assets/Images/Cumulative_vocabulary_coverage.png)
 Here is a visualisation of the Power Law Distribution based on my dataset.
 
-And here is an example by <a src="https://www.sinosplice.com/life/archives/2016/08/25/what-80-comprehension-feels-like" John Pasden/> of a text where 80%, and 95% are understandable, to illustrate the point made above:
+And here is an example by [John Pasden](https://www.sinosplice.com/life/archives/2016/08/25/what-80-comprehension-feels-like) of a text where 80%, and 95% are understandable, to illustrate the point made above:
 > 80% comprehension:  
 > “Bingle for help!” you shout. “This loopity is dying!” You put your fingers on her neck. Nothing. Her flid is not weafling. You take out your joople and bingle 119, the emergency number in Japan. There’s no answer! Then you muchy that you have a new befourn assengle. It’s from your gutring, Evie. She hunwres at Tokyo University. You play the assengle. “…if you get this…” Evie says. “…I can’t vickarn now… the important passit is…” Suddenly, she looks around, dingle. “Oh no, they’re here! Cripett… the frib! Wasple them ON THE FRIB!…” BEEP! the assengle parantles. Then you gratoon something behind you…”
 
@@ -57,10 +57,8 @@ And here is an example by <a src="https://www.sinosplice.com/life/archives/2016/
 
 Even a few unknown words can completely derail understanding. According to **Schmitt et al.**, 98% vocabulary coverage is needed for truly comfortable reading.
 
-This means early progress is fast, visible, and encouraging. But soon, it flattens. Every new word is rarer, harder to remember, and contributes less overall.
+This means early progress is fast, visible, and encouraging. But soon, it flattens. New words become rarer, harder to remember because of a lack of natural repetition, and contribute less overall in frequency.
 At the same time however, these harder words are necessary to start consuming native content.
-
-This is why learning plateaus aren’t just motivational slumps, they’re mathematical inevitabilities.
 
 ## **So What Happens in Practice?**
 
@@ -84,11 +82,10 @@ Gamified Language Apps (GLAs) like Duolingo, Busuu, and Memrise are optimized fo
 - Help build early vocab
     
 - Keep motivation up with streaks and rewards
-    
 
 But, they rarely evolve to match the **needs of intermediate learners**, and most users stay in them **longer than they should**.
 
-The plateau hits hardest when learners need to **shift methods** but don’t realize it. The danger is that promises of "fluency" may cause learners to believe it's their fault, and that they should just apply themselves more to the same learning structures.
+The plateau hits hardest when learners need to **shift methods** but don’t realize it. The danger is that promises of "fluency" may cause learners to believe it's their fault, and that they should just apply themselves more to the same learning strategies.
 
 ## **Breaking Through the Plateau**
 
@@ -96,8 +93,8 @@ The study identified **three game mechanics** that remained universally effectiv
 
 ### 1. **Progress Tracking**
 
-At higher levels, gains are subtle. You’re not learning “dog” anymore, you’re learning “leash,” “kennel,” or “canine.”
-Tracking becomes key to maintain motivation when progress gets invisible.
+At higher levels, gains are subtle. You’re not learning general terms like “dog” anymore, you’re learning more specific words like “leash”, “kennel”, or “canine”.
+Tracking becomes key to maintain motivation when progress becomes invisible.
 
 ### 2. **Flashcards (Spaced Repetition)**
 
@@ -108,9 +105,9 @@ But, this shouldn't take over consuming compelling, comprehensible input, as try
 
 ### 3. **Personalization**
 
-This is where most tools fall short. Once you hit B2, your vocabulary becomes increasingly shaped by personal context. Some may spend time reading novels or academic texts, while others engage with media or conversation. Vocabulary growth becomes highly individual, and general-purpose tools struggle to keep up.
+This is where most tools fall short. Once you reach the end of B2, your vocabulary becomes increasingly shaped by personal context. Some may spend time reading novels or academic texts, while others engage with specific media or daily conversation. Vocabulary growth becomes highly individual, and general-purpose tools struggle to predict what content they should offer.
 
-Engaging with content using a predefined list of words is however perfectly fine for beginner levels, due to those first 1,500 - 2,000 being so common, they are bound to be roughly the same words for any new learner.
+Engaging with content using a predefined list of words is however perfectly fine for beginner levels, due to those first 1,500 - 2,000 words being so common, they are bound to be roughly the same words for any new learner.
 
 ## **Where AI Tutors Can Help**
 
@@ -134,7 +131,6 @@ However, some things to keep in mind:
 - They can introduce subtle misunderstandings.
     
 - They may not represent true native content.
-    
 
 Still, if used alongside real-world material, AI can help bridge the gap between intermediate and advanced fluency.
 
@@ -142,17 +138,17 @@ Still, if used alongside real-world material, AI can help bridge the gap between
 
 If developers want their users to succeed, especially long term, they need to:
 
-- Build **level-specific tools** and embrace that, instead of trying to extend their existing methods over higher (or lower) level content.
+- Build **level-specific tools** and embrace that, instead of trying to extend their existing methods over higher (or lower) level content
     
-- Let user **data transfer** between platforms to avoid starting over
+- Let **user data transfer** between platforms to avoid starting over or learners feeling like they will "lose" something when they quit your app
     
-- Use **AI for personalization** beyond static lists and rigid courses
+- Explore **AI for personalization** beyond static lists and rigid courses
     
-- Include flashcards, progress tracking and personalization
+- Include **flashcards**, **progress tracking** and **personalization**
 
 ## **Final Thoughts**
 
-Language learning isn’t linear. The intermediate plateau feels like a failure, but it’s actually a sign of advancement. The challenge is real, but so are the solutions.
+Language learning isn’t linear. The intermediate plateau may feel like a failure, but it’s actually a sign of advancement. The challenge is real, but so are the solutions.
 
 This research used the Japanese language as a case study and was based on:
 
@@ -161,30 +157,9 @@ This research used the Japanese language as a case study and was based on:
 - Analysis of a word list dataset containing:
 	- Duolingo’s full Japanese tree
 	- An approximation of the most likely AI-generated language teachers vocabulary content based on the entirety of the Japanese side of Wikipedia
-	- A reconstruction of the  Japanese Language Proficiency test vocabulary content
+	- A reconstruction of the Japanese Language Proficiency test vocabulary content based on wordlists of Coto Academy and the Jisho.org API
 	- For a total of 14,427 unique words
     
 - Word frequency modeling and gamification mechanic analysis
-    
 
-![Alt text](/assets/Images/Active_Duolingo_Users.png)
-<figure>
-  <figcaption style="font-size: 0.8em !important; text-align: center; color: #666;">
-    Figure 1: Number of active Duolingo users in millions
-  </figcaption>
-</figure>
-
-
-
-| Approximate Vocabulary Size | Lexical Coverage | Percentile on the Psychometric Test | Reading Score: Mean (SD) | No. of Students |
-|-----------------------------|------------------|--------------------------------------|---------------------------|------------------|
-| 1,000                       | 78.58%           | 50%                                  | 83 (6)                    | 109              |
-| 2,000                       | 87.67%           | 53%                                  | 90 (7.8)                  | 199              |
-| 3,000                       | 90.56%           | 66%                                  | 102 (8.9)                 | 204              |
-| 4,000                       | 92.81%           | 72%                                  | 111 (9.4)                 | 200              |
-| 5,000                       | 94%              | 83%                                  | 122 (8.3)                 | 23               |
-| 6,000                       | 94.8%            |                                      |                           |                  |
-| 7,000                       | 95.43%           | 91%–99%                              | 138 (4)                   | 10               |
-| 8,000                       | 96.3%            |                                      |                           |                  |
-
-
+Feel free to reach out if you have any questions, thoughts, or would like to work together!
