@@ -25,7 +25,7 @@ While researchers have identified the B2-C1 plateau, my dataset suggests that a 
 
 This means learners aren’t just at risk of getting stuck once. They’re at risk twice. And each plateau requires a different solution, because what works at A2 no longer works at B1.
 
-![Alt text](/assets/Images/Intermediate_plateau.png)
+![Alt text](/assets/Images/Intermediate_plateau2.png)
 This is what the intermediate plateau looks like, sad face included.
 
 ## **Why Does This Happen?**
