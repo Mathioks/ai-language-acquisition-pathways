@@ -2,14 +2,188 @@
 layout: default
 title: From Stuck to Fluent
 ---
+# **Why Progress Halts Around B2, and How Gamification and AI Can Bridge the Gap**
 
-# Why Progress Halts Around B2, and How AI and Gamification Can Bridge the Gap
+**Have you been learning a language for a while now, but feel stuck?**  
+You’re not alone.
 
-In today’s global world, being fluent in more than one language is often the key to opportunity. Whether it’s qualifying for a job abroad, passing immigration requirements, or simply building stronger cross-cultural relationships, language skills matter more than ever.
+This frustrating moment of stagnation is known as the **Intermediate Plateau**, and over the past year, I’ve been researching how gamified language apps and AI might help us get through it.
 
-So it’s no surprise that language learning apps like Duolingo have exploded in popularity. In fact, millions of people open the app every single day. For beginners, these tools work, they’re fun, accessible, and motivating.
+---
 
-But here’s the truth few people talk about: very few learners ever make it to fluency using these tools alone.
+## **Stuck? You’re Not Alone**
+
+Whether you’re grinding Duolingo streaks, watching native content, or deep into flashcard decks, many language learners hit a point where their progress just… stalls.
+
+The intermediate plateau typically occurs between **CEFR B2 and C1**. It’s a quiet, confidence-eroding stage that leaves learners demotivated, unsure of how to keep going. Worse, it often causes learners to loop: quit, restart, repeat.
+
+But this isn’t just anecdotal. My research, based on 198 learners and a 14,427-word dataset including the full Duolingo Japanese tree and simulated AI tutoring vocab, suggests that the intermediate plateau is both **common** and **structural**.
+
+Even more interestingly, the data showed that it’s not the only one.
+
+---
+
+## **There Are Actually Two Plateaus**
+
+While researchers have identified the B2-C1 plateau, my dataset suggests that a second plateau also seems to appear earlier, right between **A2 and B1**.
+
+This means learners aren’t just at risk of getting stuck once. They’re at risk twice. And each plateau requires a different solution, because what works at A2 no longer works at B1.
+
+---
+
+## **Why Does This Happen?
+
+The root cause? Vocabulary frequency, and something known as the **Power Law Distribution of Language**.
+
+In short:
+
+- The most common 2,000 words cover **~80%** of daily speech
+    
+- But 80% word knowledge only yields **~50% comprehension**
+    
+- To get to 98% comprehension, the level needed for effortless reading, you need **~8,000 words**
+    
+
+This highlights that the rarity of a words is directly inversely related to the amount meaning it contains.
+In very simple terms:
+More common word = Less meaning  
+Less common word = More meaning
+
+This means early progress is fast, visible, and encouraging. But soon, it flattens. Every new word is rarer, harder to remember, and contributes less overall.
+At the same time however, these harder words are necessary to start consuming native content.
+
+This is why learning plateaus aren’t just motivational slumps, they’re mathematical inevitabilities.
+
+---
+
+## **So What Happens in Practice?**
+
+Let me introduce the three stages of the intermediate plateau that emerged from the survey data:
+
+- **The Lost**: Aware they’ve stopped progressing, but are trying to brute force through by continuing to use the same tools
+    
+- **The Searching**: This group got fed up and started trying all kinds of new things, throwing things at the wall until something sticks
+    
+- **The Found**: Learners who found new strategies that work for them, and began moving again
+    
+
+Recognizing where you are is half the battle. If you’re reading this and nodding along, you’ve probably moved from “Lost” to “Searching”, and that’s progress.
+
+---
+
+## **How Gamified Language Apps Fit In**
+
+Gamified Language Apps (GLAs) like Duolingo, Busuu, and Memrise are optimized for beginner levels. They:
+
+- Provide structure
+    
+- Help build early vocab
+    
+- Keep motivation up with streaks and rewards
+    
+
+But, they rarely evolve to match the **needs of intermediate learners**, and most users stay in them **longer than they should**.
+
+The plateau hits hardest when learners need to **shift methods** but don’t realize it. The danger is that promises of "fluency" may cause learners to believe it's their fault, and that they should just apply themselves more to the same learning structures.
+
+---
+
+## **Breaking Through the Plateau**
+
+The study identified **three game mechanics** that remained universally effective **across all levels**:
+
+### 1. **Progress Tracking**
+
+At higher levels, gains are subtle. You’re not learning “dog” anymore, you’re learning “leash,” “kennel,” or “canine.”
+Tracking becomes key to maintain motivation when progress gets invisible.
+
+### 2. **Flashcards (Spaced Repetition)**
+
+For retaining low-frequency words that matter to your personal goals (e.g., job-specific terms, favorite genre vocab), flashcards remain vital, as these rare words will appear less in natural situations, meaning you have less chances to review them compared to the most common words.
+But, this shouldn't take over consuming compelling, comprehensible input, as trying to brute-force words will:
+1) Only teach you an approximation of the word's true meaning
+2) Removes your chances of encountering words that are naturally going to appear nearby your current knowledge cluster, which will be much easier to learn due to surrounding context and personal interest.  
+
+### 3. **Personalization**
+
+This is where most tools fall short. Once you hit B2, your vocabulary becomes increasingly shaped by personal context. Some may spend time reading novels or academic texts, while others engage with media or conversation. Vocabulary growth becomes highly individual, and general-purpose tools struggle to keep up.
+
+Engaging with content using a predefined list of words is however perfectly fine for beginner levels, due to those first 1,500 - 2,000 being so common, they are bound to be roughly the same words for any new learner.
+
+---
+
+## **Why Just Memorizing More Words Doesn’t Work**
+
+Let’s look at an example.
+
+> 80% comprehension:  
+> “Bingle for help!” you shout. “This loopity is dying!” You put your fingers on her neck. Nothing. Her flid is not weafling...
+
+> 95% comprehension:  
+> In the morning, you start again. You shower, get dressed, and walk pocklent. You move slowly, half-awake. Then, suddenly, you stop...
+
+Even a few unknown words can completely derail understanding. According to **Schmitt et al.**, 98% vocabulary coverage is needed for truly comfortable reading.
+
+---
+
+## **Where AI Tutors Can Help**
+
+Although still a generally unexplored field, **GPT-powered tutors** (GPALTs) can offer high levels of personalization.
+
+They can:
+
+- Adapt to your existing vocabulary
+    
+- Generate tailored, context-rich lessons
+    
+- Target your interests, not a generic curriculum
+    
+
+In short, they help you stay in your **personal vocabulary cluster**, allowing you to expand more naturally to neigboring clusters.
+
+However, some things to keep in mind:
+
+- LLMs don’t “think” like humans.
+    
+- They can introduce subtle misunderstandings.
+    
+- They may not represent true native content.
+    
+
+Still, if used alongside real-world material, AI can help bridge the gap between intermediate and advanced fluency.
+
+---
+
+## Extra for developers: **Where Language Apps Should Go Next**
+
+If developers want their users to succeed, especially long term, they need to:
+
+- Build **level-specific tools** and embrace that, instead of trying to extend their existing methods over higher (or lower) level content.
+    
+- Let user **data transfer** between platforms to avoid starting over
+    
+- Use **AI for personalization** beyond static lists and rigid courses
+    
+- Include flashcards, progress tracking and personalization
+
+---
+
+## **Final Thoughts**
+
+Language learning isn’t linear. The intermediate plateau feels like a failure, but it’s actually a sign of advancement. The challenge is real, but so are the solutions.
+
+This research used the Japanese language as a case study and was based on:
+
+- 198 learners of Japanese
+    
+- Analysis of a word list dataset containing:
+	- Duolingo’s full Japanese tree
+	- An approximation of the most likely AI-generated language teachers vocabulary content based on the entirety of the Japanese side of Wikipedia
+	- A reconstruction of the  Japanese Language Proficiency test vocabulary content
+	- For a total of 14,427 unique words
+    
+- Word frequency modeling and gamification mechanic analysis
+    
 
 ![Alt text](/assets/Images/Active_Duolingo_Users.png)
 <figure>
@@ -18,47 +192,9 @@ But here’s the truth few people talk about: very few learners ever make it to 
   </figcaption>
 </figure>
 
-## The Plateau Nobody Talks About
-
-Despite their popularity, most language apps struggle to take learners beyond the basics. Many people hit a wall, progress slows, motivation drops, and confidence falters. This frustrating stall-out is what educators and researchers call the *intermediate plateau*.
-
-But my research uncovered something even more nuanced: there may actually be **two plateaus**. The first appears around A2 - B1 (early intermediate), and the second, deeper one around B2 - C1 (upper-intermediate to advanced). This study focused on that second stage, the place where real fluency is just out of reach.
-
-![Alt text](/assets/Images/Intermediate_plateau.png)
-
-## Three Types of Learners in the Plateau
-
-- **The Lost** - still repeating beginner methods, unaware they’ve stopped working.
-- **The Searching** - exploring podcasts, YouTube, flashcards, throwing things at the wall.
-- **The Found** - those who’ve shifted strategies and begun progressing again.
-
-## What Actually Works Beyond B2?
-
-- **Flashcards** - for spaced repetition and memory.
-- **Progress tracking** - to visualize growth and stay motivated.
-- **Personalization** - tailoring content to individual knowledge and goals.
-
-That third one is the hardest, and the most important. By the time learners reach B2, their vocabulary is shaped by their personal interests, habits, and background. One-size-fits-all tools can’t deliver the specificity they need.
-
-## Why Just Memorizing More Words Doesn’t Work
-
-Many learners try to power through by brute-force vocabulary study. The problem? It’s not efficient. The *power law distribution in language* tells us that the most common 1,500 ~ 2,000 words cover a huge amount of speech. After that, there is a incremental drop-off in frequency.
-The issue is however, that these rare words are the ones that tend to hold the most meaning, in very simple terms:
-
-More common = Less meaning
-
-Less common = More meaning
-
 ![Alt text](/assets/Images/Cumulative_vocabulary_coverage.png)
 
-Imagine a pyramid: the base is wide and strong, that’s your core vocabulary. But climbing further means placing one brick at a time, high up, with less stability and more effort. The higher you go, the slower your progress.
-
-So while knowing 80% of the words used in a given sentence can be achieved rather quickly, this 80% doesn't translate into 80% understanding. 
-
-According to a study by SCHMITT et al., knowing 80% of a sentence only amounts for around 50% comprehension.
-This makes it very tiring to continue reading things you would otherwise be interested in, as the language learner constantly has to stop their reading to look up unknown words. Missing even a few rare words can ruin comprehension. 
-
-According to the study, unassisted reading only really starts to be possible starting from 98% vocabulary coverage.
+![Alt text](/assets/Images/Intermediate_plateau.png)
 
 | Approximate Vocabulary Size | Lexical Coverage | Percentile on the Psychometric Test | Reading Score: Mean (SD) | No. of Students |
 |-----------------------------|------------------|--------------------------------------|---------------------------|------------------|
@@ -80,31 +216,4 @@ Below is an example of a sentence where 80% and 95% of the words are understood.
 > 95% comprehension:
 > 
 In the morning, you start again. You shower, get dressed, and walk pocklent. You move slowly, half- awake. Then, suddenly, you stop. Something is different. The streets are fossit. Really fossit. There are no people. No cars. Nothing. “Where is dowargle?” you ask yourself. Suddenly, there is a loud quapen—a police car. It speeds by and almost hits you. It crashes into a store across the street! Then, another police car farfoofles. The police officer sees you. “Off the street!” he shouts. “Go home, lock your door!” “What? Why?” you shout back. But it’s too late. He is gone.
-
-## The Role of AI Tutors (GPALTs)
-
-This is where AI tutors come in. **GPT-powered AI Language Teachers** can generate content that’s tailored to your vocabulary, your interests, and your goals.
-
-They provide context-rich, adaptive conversations that make new words easier to learn.
-
-They can help you master niche topics, whether business focused, technology, or law, and expand into new domains by building on what you already know, building around the niche rare words you are already familiar with.
-
-However, it is also important to stay vigilant for the dangers of using AI:
--   The content may not be a realistic representation of "native content"
--   AI may give false corrections
-
-Finally, language is meant to be a communication tool between humans, even though LLMs seem to be able to speak in the same language as us, their models for understanding are vastly different. This introduces additional possibilities for "noise": think of communicating with someone in a noisy environment. As long as you both have excellent grasp on context and the language, it is possible to circumvent misunderstandings through interference from outside sources. The danger is that AI systems seem to be understanding us perfectly, there is no visible environmental aspect that blurs understanding. However, when talking to an LLM in your native language, you will easily pick up when it understood something differently than you meant it, and correct it from there. When relying on it to teach you a language, this may induce confusion, or even worse, may teach the learner very non human ways of responding.
-
-## Where Language Apps Should Go Next
-
-- Apps should specialize by level. Let learners “graduate” from one tool to the next.
-- User data, like vocabulary knowledge, should be portable across platforms.
-- AI should play a central role in tailoring the experience at higher levels.
-
-Helping learners move past plateaus isn’t just educational, it’s social. For many, language is key to visas, jobs, and integration. Getting this right means giving more people a fair shot at success.
-
-## The Research Behind This
-
-This post is based on original research involving **198 Japanese language learners**, Duolingo’s Japanese tree vocabulary set, and comparisons with **Japanese Language Proficiency Test exam lists** and **the entire Japanese Wikipedia vocabulary frequency data**. The aim: to understand why learners get stuck, and how to help them break through.
-
 
