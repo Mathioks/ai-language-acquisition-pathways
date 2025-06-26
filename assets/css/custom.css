@@ -3,6 +3,10 @@
   color: #000000 !important;
 }
 
+.project-tagline {
+  display: none;
+}
+
 .page-header {
   background-image: url('/ai-language-acquisition-pathways/assets/Images/Banner.png')  !important; /* path to your banner image */
   background-size: cover  !important;
