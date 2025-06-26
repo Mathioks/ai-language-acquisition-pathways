@@ -1,5 +1,4 @@
 # ai-language-acquisition-pathways
-Exploring AI-driven strategies for language acquisition progression for advanced learners
 
 # Why Progress Halts Around B2, and How AI and Gamification Can Bridge the Gap
 
