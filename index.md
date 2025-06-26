@@ -9,8 +9,6 @@ You’re not alone.
 
 This frustrating moment of stagnation is known as the **Intermediate Plateau**, and over the past year, I’ve been researching how gamified language apps and AI might help us get through it.
 
----
-
 ## **Introduction**
 
 Whether you’re grinding Duolingo streaks, watching native content, or deep into flashcard decks, many language learners hit a point where their progress just… stalls.
@@ -21,15 +19,11 @@ But this isn’t just anecdotal. My research, based on 198 learners and a 14,427
 
 Even more interestingly, the data showed that it’s not the only one.
 
----
-
 ## **There Are Actually Two Plateaus**
 
 While researchers have identified the B2-C1 plateau, my dataset suggests that a second plateau also seems to appear earlier, right between **A2 and B1**.
 
 This means learners aren’t just at risk of getting stuck once. They’re at risk twice. And each plateau requires a different solution, because what works at A2 no longer works at B1.
-
----
 
 ## **Why Does This Happen?**
 
@@ -54,8 +48,6 @@ At the same time however, these harder words are necessary to start consuming na
 
 This is why learning plateaus aren’t just motivational slumps, they’re mathematical inevitabilities.
 
----
-
 ## **So What Happens in Practice?**
 
 Let me introduce the three stages of the intermediate plateau that emerged from the survey data:
@@ -68,8 +60,6 @@ Let me introduce the three stages of the intermediate plateau that emerged from 
     
 
 Recognizing where you are is half the battle. If you’re reading this and nodding along, you’ve probably moved from “Lost” to “Searching”, and that’s progress.
-
----
 
 ## **How Gamified Language Apps Fit In**
 
@@ -85,8 +75,6 @@ Gamified Language Apps (GLAs) like Duolingo, Busuu, and Memrise are optimized fo
 But, they rarely evolve to match the **needs of intermediate learners**, and most users stay in them **longer than they should**.
 
 The plateau hits hardest when learners need to **shift methods** but don’t realize it. The danger is that promises of "fluency" may cause learners to believe it's their fault, and that they should just apply themselves more to the same learning structures.
-
----
 
 ## **Breaking Through the Plateau**
 
@@ -110,8 +98,6 @@ This is where most tools fall short. Once you hit B2, your vocabulary becomes in
 
 Engaging with content using a predefined list of words is however perfectly fine for beginner levels, due to those first 1,500 - 2,000 being so common, they are bound to be roughly the same words for any new learner.
 
----
-
 ## **Why Just Memorizing More Words Doesn’t Work**
 
 Let’s look at an example.
@@ -123,8 +109,6 @@ Let’s look at an example.
 > In the morning, you start again. You shower, get dressed, and walk pocklent. You move slowly, half-awake. Then, suddenly, you stop...
 
 Even a few unknown words can completely derail understanding. According to **Schmitt et al.**, 98% vocabulary coverage is needed for truly comfortable reading.
-
----
 
 ## **Where AI Tutors Can Help**
 
@@ -152,8 +136,6 @@ However, some things to keep in mind:
 
 Still, if used alongside real-world material, AI can help bridge the gap between intermediate and advanced fluency.
 
----
-
 ## Extra for developers: **Where Language Apps Should Go Next**
 
 If developers want their users to succeed, especially long term, they need to:
@@ -165,8 +147,6 @@ If developers want their users to succeed, especially long term, they need to:
 - Use **AI for personalization** beyond static lists and rigid courses
     
 - Include flashcards, progress tracking and personalization
-
----
 
 ## **Final Thoughts**
 
