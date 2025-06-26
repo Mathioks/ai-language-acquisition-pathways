@@ -39,12 +39,23 @@ In short:
 - But 80% word knowledge only yields **~50% comprehension**
     
 - To get to 98% comprehension, the level needed for effortless reading, you need **~8,000 words**
-    
 
-This highlights that the rarity of a words is directly inversely related to the amount meaning it contains.
+This highlights that the rarity of a word is directly inversely related to the amount of meaning it contains.
 In very simple terms:
-More common word = Less meaning  
+More common word = Less meaning
 Less common word = More meaning
+
+![Alt text](/assets/Images/Cumulative_vocabulary_coverage.png)
+Here is a visualisation of the Power Law Distribution based on my dataset.
+
+And here is an example by <a src="https://www.sinosplice.com/life/archives/2016/08/25/what-80-comprehension-feels-like" John Pasden/> of a text where 80%, and 95% are understandable, to illustrate the point made above:
+> 80% comprehension:  
+> “Bingle for help!” you shout. “This loopity is dying!” You put your fingers on her neck. Nothing. Her flid is not weafling. You take out your joople and bingle 119, the emergency number in Japan. There’s no answer! Then you muchy that you have a new befourn assengle. It’s from your gutring, Evie. She hunwres at Tokyo University. You play the assengle. “…if you get this…” Evie says. “…I can’t vickarn now… the important passit is…” Suddenly, she looks around, dingle. “Oh no, they’re here! Cripett… the frib! Wasple them ON THE FRIB!…” BEEP! the assengle parantles. Then you gratoon something behind you…”
+
+> 95% comprehension:  
+> In the morning, you start again. You shower, get dressed, and walk pocklent. You move slowly, half- awake. Then, suddenly, you stop. Something is different. The streets are fossit. Really fossit. There are no people. No cars. Nothing. “Where is dowargle?” you ask yourself. Suddenly, there is a loud quapen—a police car. It speeds by and almost hits you. It crashes into a store across the street! Then, another police car farfoofles. The police officer sees you. “Off the street!” he shouts. “Go home, lock your door!” “What? Why?” you shout back. But it’s too late. He is gone.
+
+Even a few unknown words can completely derail understanding. According to **Schmitt et al.**, 98% vocabulary coverage is needed for truly comfortable reading.
 
 This means early progress is fast, visible, and encouraging. But soon, it flattens. Every new word is rarer, harder to remember, and contributes less overall.
 At the same time however, these harder words are necessary to start consuming native content.
@@ -100,18 +111,6 @@ But, this shouldn't take over consuming compelling, comprehensible input, as try
 This is where most tools fall short. Once you hit B2, your vocabulary becomes increasingly shaped by personal context. Some may spend time reading novels or academic texts, while others engage with media or conversation. Vocabulary growth becomes highly individual, and general-purpose tools struggle to keep up.
 
 Engaging with content using a predefined list of words is however perfectly fine for beginner levels, due to those first 1,500 - 2,000 being so common, they are bound to be roughly the same words for any new learner.
-
-## **Why Just Memorizing More Words Doesn’t Work**
-
-Let’s look at an example.
-
-> 80% comprehension:  
-> “Bingle for help!” you shout. “This loopity is dying!” You put your fingers on her neck. Nothing. Her flid is not weafling...
-
-> 95% comprehension:  
-> In the morning, you start again. You shower, get dressed, and walk pocklent. You move slowly, half-awake. Then, suddenly, you stop...
-
-Even a few unknown words can completely derail understanding. According to **Schmitt et al.**, 98% vocabulary coverage is needed for truly comfortable reading.
 
 ## **Where AI Tutors Can Help**
 
@@ -175,7 +174,6 @@ This research used the Japanese language as a case study and was based on:
   </figcaption>
 </figure>
 
-![Alt text](/assets/Images/Cumulative_vocabulary_coverage.png)
 
 
 | Approximate Vocabulary Size | Lexical Coverage | Percentile on the Psychometric Test | Reading Score: Mean (SD) | No. of Students |
@@ -189,13 +187,4 @@ This research used the Japanese language as a case study and was based on:
 | 7,000                       | 95.43%           | 91%–99%                              | 138 (4)                   | 10               |
 | 8,000                       | 96.3%            |                                      |                           |                  |
 
-Below is an example of a sentence where 80% and 95% of the words are understood.
-
-> 80% comprehension:
-> 
-“Bingle for help!” you shout. “This loopity is dying!” You put your fingers on her neck. Nothing. Her flid is not weafling. You take out your joople and bingle 119, the emergency number in Japan. There’s no answer! Then you muchy that you have a new befourn assengle. It’s from your gutring, Evie. She hunwres at Tokyo University. You play the assengle. “…if you get this…” Evie says. “…I can’t vickarn now… the important passit is…” Suddenly, she looks around, dingle. “Oh no, they’re here! Cripett… the frib! Wasple them ON THE FRIB!…” BEEP! the assengle parantles. Then you gratoon something behind you…”
-
-> 95% comprehension:
-> 
-In the morning, you start again. You shower, get dressed, and walk pocklent. You move slowly, half- awake. Then, suddenly, you stop. Something is different. The streets are fossit. Really fossit. There are no people. No cars. Nothing. “Where is dowargle?” you ask yourself. Suddenly, there is a loud quapen—a police car. It speeds by and almost hits you. It crashes into a store across the street! Then, another police car farfoofles. The police officer sees you. “Off the street!” he shouts. “Go home, lock your door!” “What? Why?” you shout back. But it’s too late. He is gone.
 
