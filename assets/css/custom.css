@@ -3,6 +3,14 @@
   color: #000000 !important;
 }
 
+.page-header {
+  background-image: url('/assets/images/banner.png'); /* path to your banner image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: transparent; /* optional, to avoid background color showing */
+}
+
 /* Customize body font */
 body {
   font-family: Georgia, serif;
