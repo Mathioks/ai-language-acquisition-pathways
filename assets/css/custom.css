@@ -11,6 +11,13 @@
   background-color: transparent  !important; /* optional, to avoid background color showing */
   padding: 8rem 1rem;
   background-position: center 68.2% !important;
+  @media (max-width: 768px) {
+  .page-header {
+    padding: 4rem 1rem; /* reduce vertical height for smaller screens */
+    background-position: center 80%; /* adjust if needed */
+  }
+}
+
 }
 
 /* Customize body font */
