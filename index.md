@@ -13,7 +13,7 @@ This frustrating moment of stagnation is known as the **Intermediate Plateau**, 
 
 Whether you’re grinding Duolingo streaks, watching native content, or deep into flashcard decks, many language learners hit a point where their progress just… stalls.
 
-The intermediate plateau typically occurs between **CEFR B2 and C1**. It’s a quiet, confidence-eroding stage that leaves learners demotivated, unsure of how to keep going. Worse, it often causes learners to loop: quit, restart, repeat.
+The intermediate plateau typically occurs between **CEFR B2 and C1** (upper-intermediate to advanced). It’s a quiet, confidence-eroding stage that leaves learners demotivated, unsure of how to keep going. Worse, it often causes learners to loop: quit, restart, repeat.
 
 But this isn’t just anecdotal. My research, based on 198 learners and a 14,427-word dataset including the full Duolingo Japanese tree and simulated AI tutoring vocab, suggests that the intermediate plateau is both **common** and **structural**.
 
@@ -21,9 +21,12 @@ Even more interestingly, the data showed that it’s not the only one.
 
 ## **There Are Actually Two Plateaus**
 
-While researchers have identified the B2-C1 plateau, my dataset suggests that a second plateau also seems to appear earlier, right between **A2 and B1**.
+While researchers have identified the B2-C1 plateau, my dataset suggests that a second plateau also seems to appear earlier, right between **A2 and B1** (upper-beginner to intermediate).
 
 This means learners aren’t just at risk of getting stuck once. They’re at risk twice. And each plateau requires a different solution, because what works at A2 no longer works at B1.
+
+<img src="/assets/Images/Intermediate_plateau.png" alt="Intermediate Plateau" width="500"/>
+This is what the intermediate plateau looks like, sad face included.
 
 ## **Why Does This Happen?**
 
@@ -174,7 +177,6 @@ This research used the Japanese language as a case study and was based on:
 
 ![Alt text](/assets/Images/Cumulative_vocabulary_coverage.png)
 
-![Alt text](/assets/Images/Intermediate_plateau.png)
 
 | Approximate Vocabulary Size | Lexical Coverage | Percentile on the Psychometric Test | Reading Score: Mean (SD) | No. of Students |
 |-----------------------------|------------------|--------------------------------------|---------------------------|------------------|
