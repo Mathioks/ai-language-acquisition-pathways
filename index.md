@@ -31,9 +31,9 @@ This means learners aren’t just at risk of getting stuck once. They’re at ri
 
 ---
 
-## **Why Does This Happen?
+## **Why Does This Happen?**
 
-The root cause? Vocabulary frequency, and something known as the **Power Law Distribution of Language**.
+The root cause is vocabulary frequency, and something known as the **Power Law Distribution of Language**.
 
 In short:
 
