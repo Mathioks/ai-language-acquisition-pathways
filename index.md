@@ -164,3 +164,5 @@ This research used the Japanese language as a case study and was based on:
 - Word frequency modeling and gamification mechanic analysis
 
 Feel free to reach out if you have any questions, thoughts, or would like to work together!
+
+![Alt text](/assets/Images/Infographic.png)
