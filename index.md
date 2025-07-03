@@ -165,4 +165,4 @@ This research used the Japanese language as a case study and was based on:
 
 Feel free to reach out if you have any questions, thoughts, or would like to work together!
 
-![Alt text](/assets/Images/Infographic.png)
+![Alt text](/assets/Images/Infographic_NoBG.png)
